@@ -5,8 +5,8 @@
 }
 
 .container{
-  width: 40%;
-  margin:auto;
+  width: 35%;  /* works with only percentages when ever i want center it */
+  margin: 20px auto;
   padding: 20px;
 }
 
@@ -19,16 +19,16 @@
 }
 
 .biz-info > h2{
- font-size: 30px;
+ font-size: 25px;
 }
 
 .biz-info > h3{
-  font-size: 16px;
+  font-size: 12px;
   color: #F3BF99;
  }
 
  .biz-info > p{
-  font-size: 14px;
+  font-size: 10.8px;
   color: #000;
  }
 
